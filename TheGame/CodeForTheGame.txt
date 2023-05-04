@@ -1,5 +1,0 @@
-Console.Writeline("Gun sound");
-
-int gunLengthInMeters = 17;
-
-Console.Writeline(gunLengthInMeters);
