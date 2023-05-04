@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(240, 240, 240);
+}
+
+.header #title h1 {
+    color: rgb(50, 50, 50);
+    font: bold 1.5em, arial;
+}
